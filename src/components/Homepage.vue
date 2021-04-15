@@ -5,6 +5,11 @@
        <h1>Wavetable SN</h1>
       </div>
     </div>
+    <div class="row">
+      <div class="col-12">
+        A community driven wavetable sharing platform.
+      </div>
+    </div>
 
   </div>
 </template>
